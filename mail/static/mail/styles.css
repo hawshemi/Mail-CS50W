@@ -1,0 +1,23 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+
+body {
+    padding-top: 2rem;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.form-control, .btn, h1, h2{
+    margin-bottom: 1rem;
+}
+
+.read {
+    background-color: silver;
+}
+
+.unread {
+    background-color: white;
+}
+
